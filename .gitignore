@@ -1,0 +1,17 @@
+# Gradle & Build Outputs
+.gradle/
+.build-outputs/
+build/
+app/build/
+
+# Signing credentials & Key files
+keystore.properties
+*.jks
+*.keystore
+*.p12
+
+# Local configuration
+local.properties
+.DS_Store
+.idea/
+*.iml

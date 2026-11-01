@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pro GPS Cam</string>
+    <!-- Fallback App ID configuration to resolve Firebase missing google_app_id -->
+    <string name="google_app_id" translatable="false">1:719952687448:android:7199526874480606</string>
+    <string name="gcm_defaultSenderId" translatable="false">719952687448</string>
+</resources>
